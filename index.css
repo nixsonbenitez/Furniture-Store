@@ -1,7 +1,6 @@
 .parent{
     background-color: rgb(234, 233, 233);   
     padding: 15px;
-  
 }
 
 .container{
@@ -35,7 +34,4 @@
     border-radius: 8px;
     width: 100%;
     padding: 10px;
-    
-    
-
 }
