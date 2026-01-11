@@ -1,0 +1,41 @@
+.parent{
+    background-color: rgb(234, 233, 233);   
+    padding: 15px;
+  
+}
+
+.container{
+    padding-right:45%;
+}
+
+.parent-child{
+      background-color: rgb(255, 255, 255);
+      border-radius: 9px;
+      gap:10px;
+      margin: 28px;
+      padding: 10px;
+      font-family: sans-serif;
+}
+
+.price{
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+.discount{
+    color: grey;
+    font-size: 15px;
+}
+
+.button{
+    background-color: rgb(68, 113, 0);
+    color: white;
+    font-size: 12pt;
+    border-radius: 8px;
+    width: 100%;
+    padding: 10px;
+    
+    
+
+}
